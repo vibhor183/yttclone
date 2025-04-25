@@ -1,9 +1,5 @@
 # YouTube Clone Using MERN Stack
-</hr>
 
-- Live Site URL: [Live site URL](https://nibtube.netlify.app/)
-- Video Demo : [Video Demo](#)
-- Code Walkthrough : [Code Walkthrough]()
 
 ## Table of contents
 
